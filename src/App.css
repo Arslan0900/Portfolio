@@ -1,0 +1,12 @@
+ /* *{font-family: 'Courgette', cursive;}; */
+ .first_div{
+    color: white;
+    font-family: 'Courgette', cursive;
+    height: 100vh;
+    width: 100vw;
+    background : linear-gradient(to left, rgb(234, 58, 208),rgb(215, 163, 18));
+};
+    .card{
+    margin: 20px;
+    font-size: larger
+    };

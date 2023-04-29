@@ -1,0 +1,30 @@
+.Nav_bar3{
+    background :linear-gradient(to left, rgb(234, 58, 208),rgb(215, 163, 18));
+}
+.Home_Page1{
+    display: flex;
+    width: auto;
+    background :linear-gradient(to left, rgb(234, 58, 208),rgb(215, 163, 18));
+}
+.Home_Page2{
+   color: black;
+   font-family: 'Courier New', Courier, monospace;
+}
+.Home_Page3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.resumebtn {
+    background-image: linear-gradient(43deg, #e333dd 20%, #d7b324da 80%);
+    box-shadow: rgba(253, 200, 9, 0.989) 0px 0px 10px 2px;
+    border: none;
+  }
+  .aboutPage{
+    background :linear-gradient(to left, rgb(234, 58, 208),rgb(215, 163, 18));
+    box-shadow: rgb(0, 0, 0)20px 20px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    /* font-weight: 600; */
+  }
+.ProjectPageBG{
+    background: linear-gradient(to left, rgb(234, 58, 208),rgb(215, 163, 18));
+}
